@@ -179,7 +179,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 👨‍💻 Autor
 
-**Sandro Nister**
+**Sandronister**
 - GitHub: [@sandronister](https://github.com/sandronister)
 
 ---
